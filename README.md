@@ -25,23 +25,15 @@ Hey, I'm **Fill Ryzer** — collaborating on the development of **Paradise Lost 
 
 </div>
 
-## ⚡ Development Universe
-
-| 🎮 Game Development | 🧠 AI Collaboration | 💻 Creative Coding |
-|:---:|:---:|:---:|
-| Interactive worlds & gameplay systems | Intelligent tools & workflows | Ideas turned into digital experiences |
-
-## 🌆 Featured Project
-
 <div align="center">
 
-### PARADISE LOST DISTRICT
+<img src="./assets/development-universe.png" width="100%" alt="Development Universe: Game Development, AI Collaboration, Creative Coding" />
 
-**MULTIPLAYER · OPEN WORLD · SOCIAL RPG**
+<a href="https://t.me/ParadiseLostDistrictGame">
+  <img src="./assets/featured-project.png" width="100%" alt="Featured Project: Paradise Lost District — in development" />
+</a>
 
-An indie multiplayer open-world social RPG built through collaboration, creative experimentation and modern development workflows.
-
-[![Follow Development](https://img.shields.io/badge/FOLLOW_DEVELOPMENT-TELEGRAM-10121B?style=for-the-badge&logo=telegram&logoColor=4CEAFD)](https://t.me/ParadiseLostDistrictGame)
+<a href="https://t.me/ParadiseLostDistrictGame"><img src="https://img.shields.io/badge/FOLLOW_DEVELOPMENT-TELEGRAM-10121B?style=for-the-badge&amp;logo=telegram&amp;logoColor=4CEAFD" alt="Follow development on Telegram" /></a>
 
 <sub>🌍 Development updates are primarily in Russian. International visitors are welcome.</sub>
 
